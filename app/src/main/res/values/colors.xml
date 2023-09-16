@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_green">#1FF400</color>
+    <color name="darker_green">#1F6E00</color>
+    <color name="background_green">#DCF9D5</color>
+    <color name="secondary_green">#61E64D</color>
+    <color name="color_worst_tip">#DC1E0B</color>
+    <color name="color_best_tip">#35BA01</color>
+
+    <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+</resources>
